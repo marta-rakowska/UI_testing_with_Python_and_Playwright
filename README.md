@@ -1,1 +1,4 @@
-# UI_testing_with_Python_and_Playwright
+# UI testing with Python and Playwright
+
+This repository contains basic automated test scripts created during 'UI testing with Python and Playwright' workshop.
+
